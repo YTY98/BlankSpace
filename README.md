@@ -6,7 +6,6 @@
 ![logo_1](https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b)
 
 
-영남대학교 소프트웨어공학 프로젝트 과제
 
   <br><br>
 </div>
@@ -27,6 +26,17 @@
 ## 코드
 프론트앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-fe<br>  
 백앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-be<br>  
+
+
+## 사용된 기술
+FE<br>
+- React
+- Redux-thunk
+BE<br>
+- Nodejs
+- Express
+- MongoDB
+
 
 ## 사용 방법
 
