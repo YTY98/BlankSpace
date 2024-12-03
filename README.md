@@ -29,8 +29,8 @@
 
 
 ## 코드
-- 프론트앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-fe<br>  
-- 백앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-be<br>  
+- 프론트엔드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-fe<br>  
+- 백엔드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-be<br>  
 
 
 ## 사용된 기술
