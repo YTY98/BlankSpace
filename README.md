@@ -14,7 +14,7 @@
 
 미니멀리즘을 지향하는 의류 판매 쇼핑몰
 
-## 팅뭔
+## 팀원
 [양태영(FE&BE)](https://github.com/YTY98)<br>
 [김태윤(FE&BE)](https://github.com/security-engineer)<br>
 [김민우(FE)](https://github.com/minuus)<br> 
@@ -29,13 +29,15 @@
 
 
 ## 사용된 기술
-<div>FE<br>
-- React
-- Redux-thunk
-BE<br>
-- Nodejs
-- Express
-- MongoDB</div>
+
+### FE (프론트엔드)
+- React  
+- Redux-thunk  
+
+### BE (백엔드)
+- Node.js  
+- Express  
+- MongoDB  
 
 
 ## 사용 방법
