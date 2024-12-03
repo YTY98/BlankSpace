@@ -17,13 +17,13 @@
 
 ## 팀원
 
-| 이름       | 역할      | GitHub 프로필                              |
+| 이름       | 역할      | GitHub 주소                              |
 |------------|-----------|-------------------------------------------|
-| 양태영    | FE & BE   | [profile](https://github.com/YTY98)  |
-| 김태윤    | FE & BE   | [profile](https://github.com/security-engineer) |
-| 김민우    | FE        | [profile](https://github.com/minuus) |
-| 우상은    | FE        | [profile](https://github.com/Woosangeun12) |
-| 최혜정    | BE        | [profile](https://github.com/Chyejeong) |
+| 양태영    | FE & BE   | [YTY98](https://github.com/YTY98)  |
+| 김태윤    | FE & BE   | [security-engineer](https://github.com/security-engineer) |
+| 김민우    | FE        | [minuus](https://github.com/minuus) |
+| 우상은    | FE        | [Woosangeun12](https://github.com/Woosangeun12) |
+| 최혜정    | BE        | [Chyejeong](https://github.com/Chyejeong) |
 
 
 
