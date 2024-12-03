@@ -29,13 +29,13 @@
 
 
 ## 사용된 기술
-FE<br>
+<div>FE<br>
 - React
 - Redux-thunk
 BE<br>
 - Nodejs
 - Express
-- MongoDB
+- MongoDB</div>
 
 
 ## 사용 방법
