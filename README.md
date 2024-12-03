@@ -9,7 +9,7 @@
 
   <br><br>
 
-![BlankSpace 로고]() <![logo_1](https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b)
+![logo_1](https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b)
 
 
 영남대학교 소프트웨어공학 프로젝트 과제
