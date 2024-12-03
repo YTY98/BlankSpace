@@ -19,11 +19,11 @@
 
 | 이름       | 역할      | GitHub 프로필                              |
 |------------|-----------|-------------------------------------------|
-| 양태영    | FE & BE   | [양태영 프로필](https://github.com/YTY98)  |
-| 김태윤    | FE & BE   | [김태윤 프로필](https://github.com/security-engineer) |
-| 김민우    | FE        | [김민우 프로필](https://github.com/minuus) |
-| 우상은    | FE        | [우상은 프로필](https://github.com/Woosangeun12) |
-| 최혜정    | BE        | [최혜정 프로필](https://github.com/Chyejeong) |
+| 양태영    | FE & BE   | [profile](https://github.com/YTY98)  |
+| 김태윤    | FE & BE   | [profile](https://github.com/security-engineer) |
+| 김민우    | FE        | [profile](https://github.com/minuus) |
+| 우상은    | FE        | [profile](https://github.com/Woosangeun12) |
+| 최혜정    | BE        | [profile](https://github.com/Chyejeong) |
 
 
 
