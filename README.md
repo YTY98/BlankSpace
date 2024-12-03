@@ -19,7 +19,7 @@
 
 | 이름       | 역할      | GitHub 주소                              |
 |------------|-----------|-------------------------------------------|
-| 양태영    | FE & BE   | [YTY98](https://github.com/YTY98)  |
+| 양태영    | PM   | [YTY98](https://github.com/YTY98)  |
 | 김태윤    | FE & BE   | [security-engineer](https://github.com/security-engineer) |
 | 김민우    | FE        | [minuus](https://github.com/minuus) |
 | 우상은    | FE        | [Woosangeun12](https://github.com/Woosangeun12) |
