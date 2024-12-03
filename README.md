@@ -3,7 +3,8 @@
 
   <br><br>
 
-<img src="https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b" alt="logo_1" style="width:600px; height:auto;">
+<img src="https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b" alt="logo_1" style="filter: invert(100%);">
+
 
 
 
