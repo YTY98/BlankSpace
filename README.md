@@ -3,7 +3,7 @@
 
   <br><br>
 
-<img src="https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b" alt="logo_1" style="filter: invert(100%);">
+<img src="https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b" alt="logo_1" style="width:600px; height:auto;">
 
 
 
@@ -16,11 +16,15 @@
 미니멀리즘을 지향하는 의류 판매 쇼핑몰
 
 ## 팀원
-[양태영(FE&BE)](https://github.com/YTY98)<br>
-[김태윤(FE&BE)](https://github.com/security-engineer)<br>
-[김민우(FE)](https://github.com/minuus)<br> 
-[우상은(FE)](https://github.com/Woosangeun12)<br> 
-[최혜정(BE)](https://github.com/Chyejeong)<br> 
+
+| 이름       | 역할      | GitHub 프로필                              |
+|------------|-----------|-------------------------------------------|
+| 양태영    | FE & BE   | [양태영 프로필](https://github.com/YTY98)  |
+| 김태윤    | FE & BE   | [김태윤 프로필](https://github.com/security-engineer) |
+| 김민우    | FE        | [김민우 프로필](https://github.com/minuus) |
+| 우상은    | FE        | [우상은 프로필](https://github.com/Woosangeun12) |
+| 최혜정    | BE        | [최혜정 프로필](https://github.com/Chyejeong) |
+
 
 
 
