@@ -3,7 +3,7 @@
 
   <br><br>
 
-![logo_1](https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b)
+<img src="https://github.com/user-attachments/assets/b058b929-9ee1-4e5e-b249-8dd959db772b" alt="logo_1" style="width:600px; height:auto;">
 
 
 
@@ -24,8 +24,8 @@
 
 
 ## 코드
-프론트앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-fe<br>  
-백앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-be<br>  
+- 프론트앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-fe<br>  
+- 백앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-be<br>  
 
 
 ## 사용된 기술
