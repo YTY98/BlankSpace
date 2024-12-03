@@ -21,6 +21,10 @@
 
 미니멀리즘을 지향하는 의류 판매 쇼핑몰
 
+## 코드
+프론트앤드 코드 : https://github.com/YTY98/BlankSpace-Shopping-mall-fe
+백앤드 코드: https://github.com/YTY98/BlankSpace-Shopping-mall-be
+
 ## 사용 방법
 
 url창에 165.229.89.149:3000 입력 후 접속
