@@ -37,7 +37,7 @@
 
 ### FE (프론트엔드)
 - React  
-- Redux-thunk  
+- Redux Toolkit
 
 ### BE (백엔드)
 - Node.js  
